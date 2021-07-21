@@ -1,0 +1,15 @@
+{  "short_name": "TUCASA ATC",  
+    "name": "Test Application",  
+    "theme_color": "#eb5252",  
+    "background_color": "#000000",  
+    "display": "fullscreen",  
+    "Scope": "/",  
+    "orientation": "portrait",  
+    "icons": [    
+        {      
+            "src": "images/icon.png",      
+            "type": "image/png",      "sizes": "96x96"    
+        } 
+    ],  
+    "start_url": "index.html"
+}
