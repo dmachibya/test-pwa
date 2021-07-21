@@ -7,8 +7,14 @@
     "orientation": "portrait",  
     "icons": [    
         {      
-            "src": "images/icon.png",      
-            "type": "image/png",      "sizes": "96x96"    
+            "src": "img/icon-2.png",      
+            "type": "image/png",
+            "sizes": "144x144"    
+        }, 
+        {      
+            "src": "img/icon.png",      
+            "type": "image/png",
+            "sizes": "96x96"    
         } 
     ],  
     "start_url": "index.html"
